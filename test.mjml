@@ -1,0 +1,36 @@
+<mjml>
+	<mj-body>
+		<!-- Company Header -->
+		<mj-section>
+			<mj-column>
+				<mj-text font-style="italic" font-size="20px" color="#626262"> My Company </mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- Company Header -->
+		<mj-section
+			background-url="https://1.bp.blogspot.com/-TPrfhxbYpDY/Uh3Refzk02I/AAAAAAAALw8/5sUJ0UUGYuw/s1600/New+York+in+The+1960's+-+70's+(2).jpg"
+			background-size="cover"
+			background-position="center"
+			background-repeat="no-repeat"
+		>
+			<mj-column width="600px">
+				<mj-text color="#fff" font-size="40px" align="center"> Hello World </mj-text>
+
+				<mj-button background-color="#F63A4D" href="http://www.google.com"> push me asshole </mj-button>
+			</mj-column>
+		</mj-section>
+
+		<!-- Company Header -->
+		<mj-section></mj-section>
+
+		<!-- Company Header -->
+		<mj-section></mj-section>
+
+		<!-- Company Header -->
+		<mj-section></mj-section>
+
+		<!-- Company Header -->
+		<mj-section></mj-section>
+	</mj-body>
+</mjml>

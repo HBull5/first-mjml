@@ -1,0 +1,63 @@
+<mjml>
+	<mj-body>
+		<!-- nav -->
+		<mj-section background-color="#333">
+			<mj-column>
+				<mj-text color="#fff" align="center" font-size="40px">Heading</mj-text>
+			</mj-column>
+		</mj-section>
+
+		<!-- hero -->
+		<mj-section background-color="#ccc">
+			<mj-column>
+				<mj-text color="#000" align="center" font-size="60px"> Click a thing! </mj-text>
+				<mj-button href="http://www.google.com"> Click Meeeeeeee! </mj-button>
+			</mj-column>
+		</mj-section>
+
+		<!-- cards -->
+		<mj-section background-color="#333">
+			<!-- spacer -->
+			<mj-column width="2.5%"> </mj-column>
+
+			<!-- card #1 -->
+			<mj-column background-color="#ccc" width="30%">
+				<mj-text color="#000" font-size="30px" align="center"> Card #1 </mj-text>
+
+				<mj-text color="#000" align="center"> lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet </mj-text>
+
+				<mj-button background-color="green"> Call to Action </mj-button>
+			</mj-column>
+
+			<!-- spacer -->
+			<mj-column width="2.5%"> </mj-column>
+
+			<!-- card #2 -->
+			<mj-column background-color="#ccc" width="30%">
+				<mj-text color="#000" font-size="30px" align="center"> Card #2 </mj-text>
+
+				<mj-text color="#000" align="center"> lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet </mj-text>
+
+				<mj-button background-color="green"> Call to Action </mj-button>
+			</mj-column>
+
+			<!-- spacer -->
+			<mj-column width="2.5%"> </mj-column>
+
+			<!-- card #3 -->
+			<mj-column background-color="#ccc" width="30%">
+				<mj-text color="#000" font-size="30px" align="center"> Card #3 </mj-text>
+
+				<mj-text color="#000" align="center"> lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet lorem ipsum dolor set amet </mj-text>
+
+				<mj-button background-color="green"> Call to Action </mj-button></mj-column
+			>
+
+			<!-- spacer -->
+			<mj-column width="2.5%"> </mj-column>
+		</mj-section>
+
+		<!-- footer -->
+		<mj-section> </mj-section>
+	</mj-body>
+</mjml>
